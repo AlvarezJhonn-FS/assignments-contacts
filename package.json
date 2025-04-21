@@ -1,0 +1,29 @@
+{
+  "name": "assignments-contacts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "dev": "nodemon app.js",
+    "start": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlvarezJhonn-FS/assignments-contacts.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlvarezJhonn-FS/assignments-contacts/issues"
+  },
+  "homepage": "https://github.com/AlvarezJhonn-FS/assignments-contacts#readme",
+  "description": "",
+  "dependencies": {
+    "@jworkman-fs/asl": "^1.2.43",
+    "express": "^5.1.0"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
